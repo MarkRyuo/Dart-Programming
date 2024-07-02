@@ -45,6 +45,6 @@ void main() { // * Starting
   }
 
 
-  // * Logical Operator 
+  // * Logical Operator = && - and, || - or 
 
 }
