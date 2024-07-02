@@ -16,6 +16,9 @@ void main() {
   double gpa = 1.50 ; 
   print(gpa) ;
 
+  bool online = true ;
+  print(online) 
+
 
   // * Use ? for declaring first no assignment 
 
