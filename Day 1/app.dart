@@ -3,7 +3,7 @@
 // * Day 1 Dart Basics 
 
 
-void main() {
+void main() { // * Starting 
 
   // * Variables = String, int, double, bool
 
