@@ -8,5 +8,8 @@ void main() {
   // * Variables 
 
   String _name = "Riyuo" ;
+  print(_name) ;
 
+  int age = 21 ;
+  print(age) ;
 }
