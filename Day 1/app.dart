@@ -38,7 +38,7 @@ void main() { // * Starting
     print("Old Bike") ;
   }
   else {
-    print("")
+    print("New Bike") ;
   }
 
 }
