@@ -18,4 +18,8 @@ void main() {
 
 
   // * Use ? for not declaring 
+
+  String? usernmae ;
+  print(usernmae) ;
+
 }
