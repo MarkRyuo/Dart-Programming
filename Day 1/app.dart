@@ -17,7 +17,7 @@ void main() {
   print(gpa) ;
 
   bool online = true ;
-  print(online) 
+  print(online) ;
 
 
   // * Use ? for declaring first no assignment 
