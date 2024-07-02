@@ -5,9 +5,9 @@
 
 void main() {
 
-  // * Variables 
+  // * Variables = String, int, double, bool
 
-  String _name = "Riyuo" ;
+  String _name = "Riyuo" ; 
   print(_name) ;
 
   int age = 21 ;
