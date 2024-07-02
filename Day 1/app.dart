@@ -61,7 +61,7 @@ void logical_operator() {
   bool online = true ;
 
   if(age >= 18){
-    
+    print("Old Enough")
   }
   
 }
