@@ -17,7 +17,7 @@ void main() {
   print(gpa) ;
 
 
-  // * Use ? for not declaring 
+  // * Use ? for declaring first no assignment 
 
   String? username ;
   print(username) ;
