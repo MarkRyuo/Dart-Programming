@@ -34,8 +34,11 @@ void main() { // * Starting
 
   int age_of_bike = 10 ;
 
-  if(agge_of_bike >= 10){
+  if(age_of_bike >= 10){
     print("Old Bike") ;
+  }
+  else {
+    print("")
   }
 
 }
