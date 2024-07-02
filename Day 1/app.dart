@@ -48,7 +48,7 @@ void main() { // * Starting
   // * Logical Operator
 
   // * && and - Same True 
-  // * || or 
+  // * || or  - 1 false and 1 true 
 
 
 }
