@@ -37,6 +37,9 @@ void main() { // * Starting
   if(age_of_bike >= 10){
     print("Old Bike") ;
   }
+  else if(age_of_bike <= 2) {
+    print("New Bike")
+  }
   else {
     print("New Bike") ;
   }
