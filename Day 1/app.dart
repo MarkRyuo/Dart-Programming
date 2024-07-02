@@ -60,8 +60,8 @@ void logical_operator() {
   int age = 10 ;
   bool online = true ;
 
-  if(age >= 18){
-    print("Old Enough")
+  if(age >= 18 && online){
+    print("Old Enough") ;
   }
   
 }
