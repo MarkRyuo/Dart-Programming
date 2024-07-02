@@ -14,5 +14,7 @@ void main() {
   print(age) ;
 
   double gpa = 1.50 ; 
-  print(gpa)
+  print(gpa) ;
+
+  
 }
