@@ -28,4 +28,8 @@ void main() { // * Starting
   username = "Moda" ; // * Declaring Assignment 
 
 
+
+
+  // * If statement = if, else if, else 
+
 }
