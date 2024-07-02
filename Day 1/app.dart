@@ -52,3 +52,13 @@ void main() { // * Starting
 
 
 }
+
+
+void logical_operator() {
+
+
+  int age = 10 ;
+  bool online = true ;
+
+  
+}
