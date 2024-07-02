@@ -50,12 +50,12 @@ void main() { // * Starting
   // * && and - Same True 
   // * || or  - 1 false and 1 true 
 
+  logical_operator() ;
 
 }
 
 
 void logical_operator() {
-
 
   int age = 10 ;
   bool online = true ;
