@@ -32,4 +32,10 @@ void main() { // * Starting
 
   // * If statement = if, else if, else 
 
+  int age_of_bike = 10 ;
+
+  if(agge_of_bike >= 10){
+    print("")
+  }
+
 }
