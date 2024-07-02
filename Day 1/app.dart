@@ -5,7 +5,7 @@
 
 void main() { // * Starting 
 
-  // * Variables = String, int, double, bool
+  // * Variables = string, int, double, bool, null 
 
   String _name = "Riyuo" ; 
   print(_name) ;
