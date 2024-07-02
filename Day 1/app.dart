@@ -19,10 +19,6 @@ void main() { // * Starting
   bool online = true ;
   print(online) ;
 
-  // * null value 
-
-  int age = null ;
-
 
   // * Use ? for declaring first no assignment 
 
