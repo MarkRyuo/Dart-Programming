@@ -19,7 +19,10 @@ void main() {
 
   // * Use ? for not declaring 
 
-  String? usernmae ;
-  print(usernmae) ;
+  String? username ;
+  print(username) ;
+
+  username = "Moda" ;
+
 
 }
