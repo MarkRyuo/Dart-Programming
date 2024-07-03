@@ -67,3 +67,7 @@ void logical_operator() {
   }
 
 }
+
+voic while_loop() {
+  
+}
