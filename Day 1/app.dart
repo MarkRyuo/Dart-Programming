@@ -84,6 +84,7 @@ void while_loop() {
 
     if(get_age != 18 && online != true){
       print("Your Young") ;
+      open_loop = false ;
     }
   }
   
