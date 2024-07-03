@@ -70,4 +70,8 @@ void logical_operator() {
 
 void while_loop() {
 
+  int? get_age ;
+
+  
+
 }
