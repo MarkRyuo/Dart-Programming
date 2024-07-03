@@ -73,7 +73,7 @@ void while_loop() {
   int? get_age ;
   bool? online ;
 
-  online = true ;
+  bool open_loop = true ;
 
   while(online) {
 
