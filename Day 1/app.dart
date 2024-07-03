@@ -52,6 +52,8 @@ void main() { // * Starting
 
   logical_operator() ;
 
+  while_loop()
+
 }
 
 
@@ -79,8 +81,9 @@ void while_loop() {
 
     get_age = 10 ; //* if age is 10 
     online = true ;
-    if(){
 
+    if(get_age != 18 && online != true){
+      print("Your Young") ;
     }
   }
   
