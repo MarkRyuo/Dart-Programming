@@ -67,4 +67,3 @@ void logical_operator() {
   }
 
 }
-
