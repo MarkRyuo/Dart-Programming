@@ -87,6 +87,7 @@ void while_loop() {
       open_loop = false ; // * Loop End 
     } else {
       print("Your Old") ;
+      break ;
     }
   }
   
