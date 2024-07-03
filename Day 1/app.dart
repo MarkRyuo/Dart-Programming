@@ -77,7 +77,7 @@ void while_loop() {
 
   while(online) {
 
-    get_age = 10 ;
+    get_age = 10 ; //* if age is 10 
 
     if(){
 
