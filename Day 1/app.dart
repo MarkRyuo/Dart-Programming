@@ -65,6 +65,5 @@ void logical_operator() {
   }else {
     print("Young") ;
   }
-  
-  
+
 }
