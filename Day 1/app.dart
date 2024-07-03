@@ -68,6 +68,6 @@ void logical_operator() {
 
 }
 
-voic while_loop() {
-  
+void while_loop() {
+
 }
