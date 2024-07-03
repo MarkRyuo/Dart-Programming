@@ -84,7 +84,7 @@ void while_loop() {
 
     if(get_age != 18 && online != true){ // * if get_age is not equal to 18 and online is not equal to true print Your Young 
       print("Your Young") ;
-      open_loop = false ;
+      open_loop = false ; // * Loop End 
     }
   }
   
