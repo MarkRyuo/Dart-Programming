@@ -52,7 +52,7 @@ void main() { // * Starting
 
   logical_operator() ;
 
-  while_loop()
+  while_loop() ;
 
 }
 
