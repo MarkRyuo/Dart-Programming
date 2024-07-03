@@ -71,7 +71,14 @@ void logical_operator() {
 void while_loop() {
 
   int? get_age ;
+  bool? online ;
 
+  online = true ;
+
+  while(online) {
+
+    if()
+  }
   
 
 }
