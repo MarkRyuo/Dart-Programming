@@ -100,8 +100,6 @@ void do_while() {
   int age = 10 ;
 
   do {
-    print(object)
-  }while(){
-    
-  }
+    print("Hello") ;
+  }while() ;
 }
