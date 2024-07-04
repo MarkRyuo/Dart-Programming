@@ -96,11 +96,10 @@ void while_loop() {
 
 void do_while() {
 
-
-
   do {
     int age = 10 ;
     print("Hello") ;
   }
   while(age > 10) ;
+  
 }
