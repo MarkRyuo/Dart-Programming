@@ -101,5 +101,5 @@ void do_while() {
 
   do {
     print("Hello") ;
-  }while() ;
+  }while(n > 10) ;
 }
