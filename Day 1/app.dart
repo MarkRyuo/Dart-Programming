@@ -97,9 +97,9 @@ void while_loop() {
 void do_while() {
 
 
-  int age = 10 ;
 
   do {
+    int age = 10 ;
     print("Hello") ;
   }while(n > 10) ;
 }
