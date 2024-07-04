@@ -101,5 +101,6 @@ void do_while() {
   do {
     int age = 10 ;
     print("Hello") ;
-  }while(age > 10) ;
+  }
+  while(age > 10) ;
 }
