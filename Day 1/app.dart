@@ -96,6 +96,7 @@ void while_loop() {
 
 void do_while() {
 
+  
   int age = 10 ;
   do {
     print("Hello") ;
