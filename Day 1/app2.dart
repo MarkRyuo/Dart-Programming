@@ -3,6 +3,8 @@
 
 void main() {
 
+test() ;
+
 }
 
 
