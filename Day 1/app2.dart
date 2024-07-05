@@ -35,6 +35,6 @@ void for_loop() {
 
 
   for(var i = 0 ; i < 3 ; i++){
-    print("")
+    print("Outer Loop $i")
   }
 }
