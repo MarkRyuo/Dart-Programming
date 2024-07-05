@@ -21,6 +21,10 @@ void test(){
   // age_ = 20 ; 
 
 
+  const String _name = "Jhon Mark" ;
+  print(_name)
+
+
 
 
 
