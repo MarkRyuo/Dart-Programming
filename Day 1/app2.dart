@@ -35,7 +35,14 @@ void test(){
 void for_loop() {
 
 // * Outer Loop 
+
   for(var i = 0 ; i < 3 ; i++){
     print("Outer Loop $i") ;
+
+    for(var j = 0 ; j < 5 ; j++){
+
+    }
   }
+
+
 }
