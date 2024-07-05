@@ -41,7 +41,7 @@ void for_loop() {
   for(var i = 0 ; i < 3 ; i++){
     print("Outer Loop $i") ;
 
-    innerflow:
+    innerloop:
 
     for(var j = 0 ; j < 5 ; j++){
 
