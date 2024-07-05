@@ -4,6 +4,7 @@
 void main() {
 
 test() ;
+for_loop()
 
 }
 
@@ -35,6 +36,6 @@ void for_loop() {
 
 
   for(var i = 0 ; i < 3 ; i++){
-    print("Outer Loop $i")
+    print("Outer Loop $i") ;
   }
 }
