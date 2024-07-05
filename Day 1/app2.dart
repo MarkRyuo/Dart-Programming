@@ -18,11 +18,13 @@ void test(){
   final int age_ = 10 ; 
   print(age_) ;
 
-  // age_ = 20 ; 
+  age_ = 20 ; 
 
 
   const String _name = "Jhon Mark" ;
   print(_name) ;
+
+  _name = "Niyari" ;
 
 
 
