@@ -24,7 +24,7 @@ void test(){
   const String _name = "Jhon Mark" ;
   print(_name) ;
 
-  _name = "Niyari" ;
+  // _name = "Niyari" ; 
 
 
 
