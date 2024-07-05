@@ -3,6 +3,8 @@
 // * Day 1 Dart Basics 
 
 
+import 'dart:typed_data';
+
 void main() { // * Starting 
 
   // * Variables = string, int, double, bool
@@ -104,6 +106,6 @@ void do_while() {
   while(age > 10) ;
 
   var _age = 10 ;
-  print(Type(_age)) ;
+  print(TypedData(_age)) ;
 
 }
