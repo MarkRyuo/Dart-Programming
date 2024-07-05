@@ -38,7 +38,7 @@ void for_loop() {
   
   outerloop :
 
-  for(var i = 0 ; i < 3 ; i++){
+  for(var i = 0 ; i < 10 ; i++){
     print("Outer Loop $i") ;
 
     innerloop:
@@ -46,8 +46,10 @@ void for_loop() {
     for(var j = 0 ; j < 5 ; j++){
 
       if(i == 2 ){
-        break innerloop ;
+        break innerloop ; 
       }
+
+      if(i == 5) break outerloop ;
     }
   }
 
