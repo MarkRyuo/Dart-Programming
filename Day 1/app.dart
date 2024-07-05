@@ -104,5 +104,6 @@ void do_while() {
   while(age > 10) ;
 
   var _age = 10 ;
+  print(Type(_age)) ;
 
 }
