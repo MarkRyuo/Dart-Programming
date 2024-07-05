@@ -36,7 +36,7 @@ void for_loop() {
 
 // * Outer Loop 
   
-  outerflow :
+  outerloop :
 
   for(var i = 0 ; i < 3 ; i++){
     print("Outer Loop $i") ;
