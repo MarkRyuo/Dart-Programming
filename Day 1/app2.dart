@@ -4,7 +4,7 @@
 void main() {
 
 test() ;
-for_loop()
+for_loop() ;
 
 }
 
