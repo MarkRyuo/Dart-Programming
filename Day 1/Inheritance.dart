@@ -2,5 +2,6 @@
 // * Inheritance 
 
 void main() {
-  
+
 }
+
