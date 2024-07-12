@@ -1,3 +1,6 @@
 
 // * Inheritance 
 
+void main() {
+  
+}
