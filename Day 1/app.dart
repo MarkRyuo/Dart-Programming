@@ -21,7 +21,7 @@ void main() { // * Starting
   print(online) ;
 
 
-  // * Use ? for declaring first no assignment 
+  // * Use ? for declaring first, then no assignment 
 
   String? username ;
   print(username) ;
