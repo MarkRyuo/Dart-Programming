@@ -15,7 +15,7 @@
 
 // * 1.Class - Is the blueprint for creating Objects  
 
-class Dog {
+class ClassName {
   // Properties or fields  
-  // methods of Function
+  // methods of Functions
 }
