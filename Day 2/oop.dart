@@ -11,3 +11,6 @@
 // * Class, Object, Encapsulation, Inheritance, Abstraction 
 
 // * Design Pattern 
+
+
+// * Class - Is the blueprint for creating Objects  
