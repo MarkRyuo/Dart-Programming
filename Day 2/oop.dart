@@ -41,6 +41,7 @@ class Animal {
 void main() {
 
   Animal animal_1 = Animal() ;
+  // * Declaration 
   animal_1.name = "Rambo" ;
   animal_1.numberofLegs = 2 ;
   animal_1.age = 3 ;
