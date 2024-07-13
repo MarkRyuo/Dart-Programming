@@ -28,7 +28,8 @@ class Animal {
   int? age ;
 
   void display() {
-    
+
+    print("Animal name is: $name.")
   }
 }
 
