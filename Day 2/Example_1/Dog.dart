@@ -4,7 +4,7 @@ import '../oop.dart';
 
 class Dog extends Animal {
 
-  name = "Rambo" ;
-
+  final name = "Rambo" ;
+  final age = 
   
 }
