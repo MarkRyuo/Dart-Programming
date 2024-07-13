@@ -18,5 +18,4 @@
 class Dog {
   // Properties or fields  
   // methods of Function
-
 }
