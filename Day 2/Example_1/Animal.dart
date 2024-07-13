@@ -8,12 +8,12 @@ class Animal {
 
   // * Constructor 
   Animal(String? _name, int age) {
-    this._name ;
+    this.name ;
     this.age ;
   }
 
-  void display() {
-    print("The name of animal is ${this._name}")
+  void name() {
+    print("The name of animal is ${this._name}") ;
   }
 
 }
