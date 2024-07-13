@@ -25,5 +25,6 @@ class ClassName {
 class Animal {
   String? name ;
   int? numberofLegs ;
+  int? age ;
 }
 
