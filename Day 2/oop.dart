@@ -1,9 +1,4 @@
 
-class ClassName {
-  // Properties or fields  
-  // methods of Functions
-}
-
 // * Example 1 Declaring a class in dart 
 
 class Animal {
