@@ -40,5 +40,5 @@ class Animal {
 
 void main() {
 
-  Animal animal = Animal()
+  Animal animal_1 = Animal() ;
 }
