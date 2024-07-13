@@ -6,8 +6,9 @@ class Animal {
   String? _name ;
   int? age ;
 
+  // * Constructor 
   Animal() {
-    
+
   }
 
 }
