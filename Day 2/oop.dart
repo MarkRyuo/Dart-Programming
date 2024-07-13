@@ -22,3 +22,7 @@ class ClassName {
   // methods of Functions
 }
 
+class Animal {
+  String? name ;
+}
+
