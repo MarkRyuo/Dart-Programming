@@ -12,7 +12,7 @@ class Animal {
     this.age ;
   }
 
-  void _name() {
+  void Name() {
     print("The name of animal is ${this.name}") ;
   }
 
