@@ -12,4 +12,8 @@ class Animal {
     this.age ;
   }
 
+  void display() {
+    
+  }
+
 }
