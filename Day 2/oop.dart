@@ -38,4 +38,7 @@ class Animal {
   }
 }
 
-void main()
+void main() {
+
+  Animal animal = Animal()
+}
