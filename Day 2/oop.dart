@@ -8,4 +8,4 @@
 
 // * Features of Object Oriented Programming(OOP)
 
-// * Class, Object, Encapsulation, Inheritance 
+// * Class, Object, Encapsulation, Inheritance, Abstraction 
