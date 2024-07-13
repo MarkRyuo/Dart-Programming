@@ -45,4 +45,6 @@ void main() {
   animal_1.numberofLegs = 2 ;
   animal_1.age = 3 ;
 
+  animal_1.display() ;
+
 }
