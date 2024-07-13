@@ -30,7 +30,8 @@ class Animal {
   void display() {
 
     print("Animal name is: $name.") ;
-    print("The number of legs is $numberofLegs")
+    print("The number of legs is $numberofLegs") ;
+    print("The age is $age")
   }
 }
 
