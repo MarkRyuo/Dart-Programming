@@ -26,5 +26,9 @@ class Animal {
   String? name ;
   int? numberofLegs ;
   int? age ;
+
+  void display() {
+    
+  }
 }
 
