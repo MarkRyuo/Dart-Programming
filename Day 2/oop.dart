@@ -29,7 +29,8 @@ class Animal {
 
   void display() {
 
-    print("Animal name is: $name.")
+    print("Animal name is: $name.") ;
+    print("The number of legs is $numberofLegs")
   }
 }
 
