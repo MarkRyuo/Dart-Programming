@@ -14,3 +14,7 @@
 
 
 // * 1.Class - Is the blueprint for creating Objects  
+
+class Dog {
+  
+}
