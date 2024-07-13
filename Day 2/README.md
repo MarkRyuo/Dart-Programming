@@ -20,3 +20,8 @@
 
 // * 1.Class - Is the blueprint for creating Objects  
 // * 2.Object - Is a self contain unit code and data
+
+class ClassName {
+  // Properties or fields  
+  // methods of Functions
+}
