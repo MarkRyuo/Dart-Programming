@@ -2,8 +2,8 @@
 // * OOP have properties and Behaviors 
 
 // * Each object has properties and behaviors 
-// * Properties another called Attributes
-// * Behaviors another called Methods 
+// * Properties another called Attributes or fields
+// * Behaviors another called Methods or functions 
 
 
 // * Features of Object Oriented Programming(OOP)
@@ -16,5 +16,7 @@
 // * 1.Class - Is the blueprint for creating Objects  
 
 class Dog {
-  
+  // Properties or fields  
+  // methods of Function
+
 }
