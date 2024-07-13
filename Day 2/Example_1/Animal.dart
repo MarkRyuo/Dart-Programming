@@ -12,7 +12,7 @@ class Animal {
     this.age ;
   }
 
-  void Name() {
+  void Name() { // * Method or function
     print("The name of animal is ${this.name}") ;
   }
 
