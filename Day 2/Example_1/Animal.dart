@@ -16,4 +16,8 @@ class Animal {
     print("The name of animal is ${this.name}") ;
   }
 
+  void Agg() {
+    
+  }
+
 }
