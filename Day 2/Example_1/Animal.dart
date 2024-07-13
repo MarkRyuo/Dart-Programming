@@ -13,7 +13,7 @@ class Animal {
   }
 
   void display() {
-    
+    print("The name of animal is ${this._name}")
   }
 
 }
