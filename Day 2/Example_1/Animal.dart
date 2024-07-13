@@ -7,8 +7,9 @@ class Animal {
   int? age ;
 
   // * Constructor 
-  Animal(String? name, int age) {
-
+  Animal(String? _name, int age) {
+    this._name ;
+    this.age ;
   }
 
 }
