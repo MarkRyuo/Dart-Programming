@@ -12,6 +12,8 @@
 
 // * Design Pattern 
 
+// * Properties are used to store the data 
+// * Functions are used to perform the operations. Its also known as methods 
 
 // * 1.Class - Is the blueprint for creating Objects  
 
