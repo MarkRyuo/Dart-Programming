@@ -41,4 +41,6 @@ class Animal {
 void main() {
 
   Animal animal_1 = Animal() ;
+  animal_1.name = "Rambo" ;
+
 }
