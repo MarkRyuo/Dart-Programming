@@ -1,4 +1,5 @@
 
 // * OOP have properties and Behaviors 
 
-// * Each properties have behaviors 
+// * Each object has properties and behaviors 
+// * Properties another called Attri
