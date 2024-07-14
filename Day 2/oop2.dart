@@ -3,8 +3,6 @@
 
 class Shapes {
   // * Parent
-  int? sideA ;
-  int? sideB ;
 
   Shapes() {
     this.sideA ;
