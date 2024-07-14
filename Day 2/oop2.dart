@@ -11,11 +11,11 @@ class Shapes {
     this.sideB ;
   }  
 
-  void sideA() {
-  }
+  // void sideA() {
+  // }
 
-  void sideB() {
-  }
+  // void sideB() {
+  // }
 }
 
 class Triangle extends Shapes {
