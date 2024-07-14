@@ -5,4 +5,6 @@ class Shapes {
   // * Parent 
 }
 
-class 
+class Triangle {
+  
+}
