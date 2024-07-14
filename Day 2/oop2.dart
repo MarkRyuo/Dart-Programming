@@ -37,7 +37,7 @@ class Rectangle extends Shapes {
   // * Subclass
 
   void displayA() {
-    total = sideA * sideB ;
+    var total = sideA! * sideB! ;
     print(total);
   }
 
@@ -49,5 +49,6 @@ class Rectangle extends Shapes {
 
 void main() {
 
-  var tri = new Triangle(3, 4) ;
+  Triangle tri = new Triangle(3, 4) ;
+  tri.displayA()
 }
