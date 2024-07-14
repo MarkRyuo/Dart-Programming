@@ -4,12 +4,14 @@
 class Shapes {
   // * Superclass 
 
-  Shapes() {
+
+  Shapes(int sideA, int sideB) {
     this.sideA ;
     this.sideB ;
   }  
 
   void sideA() {
+    
   }
 
   void sideB() {
