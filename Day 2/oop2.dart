@@ -22,7 +22,7 @@ class Triangle extends Shapes {
 
     // * Subclass
 
-    void sideA() {
+    void display() {
       super.sideA() ;
     }
     
