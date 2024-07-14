@@ -36,8 +36,8 @@ class Rectangle extends Shapes {
   Rectangle(super.sideA, super.sideB) ;
   // * Subclass
 
-  int displayA() {
-    return 4 ;
+  void displayA() {
+    print(sideA * sideB );
   }
 
   int displayB(){
