@@ -33,6 +33,6 @@ class Triangle extends Shapes {
 }
 
 class Rectangle extends Shapes {
-  Rectangle(super.sideA, sideB) ;
+  Rectangle(super.sideA, super.sideB) ;
   // * Subclass
 }
