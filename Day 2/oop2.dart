@@ -16,7 +16,7 @@ class Shapes {
   }
 
   void sideB() {
-    return sideB() ;
+    
   }
 }
 
