@@ -1,6 +1,6 @@
 
 
-
+// ! WARNING REPAIR THIS 
 class Shapes {
   // * Superclass 
   int? sideA ;
@@ -36,9 +36,8 @@ class Rectangle extends Shapes {
   Rectangle(super.sideA, super.sideB) ;
   // * Subclass
 
-  void displayA() {
-    var total = sideA! * sideB! ;
-    print(total);
+  int displayA() {
+    return sideA! * sideB! ;
   }
 
   int displayB(){
@@ -50,5 +49,5 @@ class Rectangle extends Shapes {
 void main() {
 
   Triangle tri = new Triangle(3, 4) ;
-  tri.displayA()
+  tri.displayA() ;
 }
