@@ -2,9 +2,9 @@
 
 
 class Shapes {
-  // * Parent 
+  // * Parent  
 }
 
 class Triangle extends Shapes {
-
+    // * Subclass 
 }
