@@ -26,7 +26,9 @@ class Triangle extends Shapes {
       return 4 ;
     }
 
-    int sideB
+    int displayB(){
+      return 5 ;
+    }
     
 }
 
