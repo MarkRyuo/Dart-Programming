@@ -2,7 +2,7 @@
 
 
 class Shapes {
-  // * Parent
+  // * Superclass 
 
   Shapes() {
     this.sideA ;
@@ -14,7 +14,7 @@ class Shapes {
   }
 
   void sideB() {
-    return sideB()
+    return sideB() ;
   }
 }
 
