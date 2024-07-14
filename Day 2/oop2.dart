@@ -44,3 +44,8 @@ class Rectangle extends Shapes {
     return 9 ;
   }
 }
+
+
+void main() {
+  
+}
