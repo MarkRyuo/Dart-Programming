@@ -20,6 +20,8 @@ class Shapes {
 
 class Triangle extends Shapes {
     // * Subclass
+
+    void sideA()
     
 }
 
