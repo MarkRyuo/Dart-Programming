@@ -22,8 +22,8 @@ class Triangle extends Shapes {
 
     // * Subclass
 
-    void display() {
-      super.sideA() ;
+    void sideA_A() {
+      return 4 ;
     }
     
 }
