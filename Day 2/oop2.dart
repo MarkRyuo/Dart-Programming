@@ -8,3 +8,7 @@ class Shapes {
 class Triangle extends Shapes {
     // * Subclass 
 }
+
+class Rectangle extends Shapes {
+  
+}
