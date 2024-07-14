@@ -10,6 +10,10 @@ class Shapes {
     this.sideA ;
     this.sideB ;
   }  
+
+  void sideA() {
+    
+  }
 }
 
 class Triangle extends Shapes {
