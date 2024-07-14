@@ -39,4 +39,8 @@ class Rectangle extends Shapes {
   int displayA() {
     return 4 ;
   }
+
+  int displayB(){
+    return 5 ;
+  }
 }
