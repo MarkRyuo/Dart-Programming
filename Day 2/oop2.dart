@@ -18,10 +18,12 @@ class Shapes {
 }
 
 class Triangle extends Shapes {
+  Triangle(super.sideA, super.sideB);
+
     // * Subclass
 
     void sideA() {
-      return 4 ;
+      super.sideA()
     }
     
 }
