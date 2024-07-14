@@ -37,6 +37,7 @@ class Rectangle extends Shapes {
   // * Subclass
 
   void displayA() {
+    total = sideA * sideB
     print(sideA * sideB );
   }
 
