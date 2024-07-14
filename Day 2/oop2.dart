@@ -10,7 +10,6 @@ class Shapes {
   }  
 
   void sideA() {
-    return sideA() ;
   }
 
   void sideB() {
@@ -21,7 +20,9 @@ class Shapes {
 class Triangle extends Shapes {
     // * Subclass
 
-    void sideA()
+    void sideA() {
+      return 4 ;
+    }
     
 }
 
