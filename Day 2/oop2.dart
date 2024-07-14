@@ -47,5 +47,6 @@ class Rectangle extends Shapes {
 
 
 void main() {
-  
+
+  Triangle tri = new Triangle() ;
 }
