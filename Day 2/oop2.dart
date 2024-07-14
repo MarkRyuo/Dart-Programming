@@ -3,7 +3,8 @@
 
 class Shapes {
   // * Superclass 
-
+  int? sideA ;
+  int? sideB ;
 
   Shapes(this.sideA, this.sideB) {
     print('Constructor called') ;
