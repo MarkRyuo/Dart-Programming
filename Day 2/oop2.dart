@@ -2,5 +2,5 @@
 
 
 class Triangle {
-  
+  // * Parent 
 }
