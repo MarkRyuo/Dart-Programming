@@ -12,6 +12,10 @@ class Shapes {
   void sideA() {
 
   }
+
+  void sideB() {
+    
+  }
 }
 
 class Triangle extends Shapes {
