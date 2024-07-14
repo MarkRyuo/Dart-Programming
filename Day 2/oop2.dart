@@ -35,4 +35,8 @@ class Triangle extends Shapes {
 class Rectangle extends Shapes {
   Rectangle(super.sideA, super.sideB) ;
   // * Subclass
+
+  int displayA() {
+    return 4 ;
+  }
 }
