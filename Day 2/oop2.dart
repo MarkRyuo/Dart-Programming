@@ -5,10 +5,8 @@ class Shapes {
   // * Superclass 
 
 
-  Shapes() {
+  Shapes(this.sideA, this.sideB) {
     print('Constructor called') ;
-    this.sideA ;
-    this.sideB ;
   }  
 
   // void sideA() {
