@@ -6,8 +6,8 @@ class Shapes {
   int? sideA ;
   int? sideB ;
 
-  Shapes() {
-    
+  Shapes(int sideA, int sideB) {
+
   }  
 }
 
