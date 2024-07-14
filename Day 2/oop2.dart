@@ -7,6 +7,7 @@ class Shapes {
   int? sideB ;
 
   Shapes(int sideA, int sideB) {
+    int total = sideA * sideB ;
 
   }  
 }
