@@ -5,13 +5,13 @@ class Shapes {
   // * Superclass 
 
 
-  Shapes(int sideA, int sideB) {
+  Shapes() {
     this.sideA ;
     this.sideB ;
   }  
 
   void sideA() {
-    return sideA() ;
+    
   }
 
   void sideB() {
