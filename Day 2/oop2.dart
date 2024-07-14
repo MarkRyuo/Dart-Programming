@@ -4,7 +4,9 @@
 class Shapes {
   // * Parent
   int? sideA ;
-  int? sideB ;  
+  int? sideB ;
+  
+    
 }
 
 class Triangle extends Shapes {
