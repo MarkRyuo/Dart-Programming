@@ -6,13 +6,13 @@ class Shapes {
   int? sideA ;
   int? sideB ;
 
-  Shapes(int sideA, int sideB) {
+  Shapes() {
     this.sideA ;
     this.sideB ;
   }  
 
   void sideA() {
-    
+
   }
 }
 
