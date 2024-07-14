@@ -48,5 +48,5 @@ class Rectangle extends Shapes {
 
 void main() {
 
-  var tri = new Triangle(sideA, sideB) ;
+  var tri = new Triangle(3, 4) ;
 }
