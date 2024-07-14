@@ -22,9 +22,11 @@ class Triangle extends Shapes {
 
     // * Subclass
 
-    int sideA_A() {
+    int displayA() {
       return 4 ;
     }
+
+    int sideB
     
 }
 
