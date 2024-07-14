@@ -12,11 +12,9 @@ class Shapes {
   }  
 
   void sideA() {
-    
   }
 
   void sideB() {
-    
   }
 }
 
