@@ -6,6 +6,7 @@ class Shapes {
 
 
   Shapes() {
+    print('Constructor called')
     this.sideA ;
     this.sideB ;
   }  
