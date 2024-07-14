@@ -23,7 +23,7 @@ class Triangle extends Shapes {
     // * Subclass
 
     void sideA() {
-      super.sideA()
+      super.sideA() ;
     }
     
 }
